@@ -16,3 +16,5 @@ If you'd like to checkout the slides
 
 
 BAM! Done.
+
+... Yes, I should just host it somewhere.
